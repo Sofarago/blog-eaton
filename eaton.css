@@ -73,7 +73,7 @@ body {
 }
 
 .back {
-  background-image: url("C:/Users/ryo/Desktop/画像/eatonIn.jpg");
+  background-image: url("eatonIn.jpg");
   height:100%;
   width: 60%;
   position: fixed;
@@ -264,7 +264,7 @@ height: 300px;
   height:690px;
   width: 70%;
   padding-top:10px;
-  background-image: url("C:/Users/ryo/Desktop/画像/eatonhall.jpg");
+  background-image: url("eatonhall.jpg");
   background-size: contain;
   background-size: cover;
   margin: auto;
