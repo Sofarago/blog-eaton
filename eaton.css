@@ -176,20 +176,22 @@ height: 300px;
 }
 
 .blog3 {
-  height:1600px;
-  width: 90%;
-  padding-top:10px;
+  height:auto;
+  width: 100%;
   background-color: white;
   margin: auto;
   font-size: 17px;
+  clear: both;
+  overflow: hidden;
 }
 
 .blog3 h2 {
-  padding-left: 70px;
+  padding-left: 10%;
 }
 
 .blog3 img {
   box-shadow: 5px 5px 10px rgba(0,0,0,0.6);
+  margin: 0% 2%;
 }
 
 .blog3-head {
@@ -198,44 +200,22 @@ height: 300px;
 }
 
 .shop {
-  padding:40px 60px;
+  padding-top: 1%;
+  margin-left: 7%;
+  margin-right: 7%;
+  clear: both;
+  overflow: hidden;
+}
+
+.shop p {
+  width: 60%;
 }
 
 .shop1 p {
-  width: 50%;
   float: right;
-  margin-right: 50px;
-  margin-top: -2%;
 }
 
 .shop2 img {
-  float:right;
-}
-
-.shop2 p {
-  width:60%;
-  margin-top: 50px;
-  margin-left: 20px;
-}
-
-.shop3 p {
-  width:60%;
-  float:right;
-}
-
-.shop4 img {
-  float:right;
-  margin-top: 20px;
-}
-
-.shop4 p {
-  width:60%;
-  margin-top: 50px;
-  margin-left: 20px;
-}
-
-.shop5 p {
-  width:60%;
   float:right;
 }
 
