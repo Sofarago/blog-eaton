@@ -10,8 +10,6 @@ header {
   width:100vw;
   border-bottom:1px solid silver;
   position: relative;
-  position:fixed;
-  z-index:5;
   overflow: hidden;
 }
 
